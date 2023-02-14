@@ -7,6 +7,8 @@ alias k="kubectl"
 alias kg="kubectl get"
 alias kaf="kubectl apply -f"
 alias kpw="kubectl port-forward"
+alias kpf="kubectl port-forward"
+alias kns="kubectl config set-context --current --namespace"
 
 # Terraform alias
 alias t="terraform"
